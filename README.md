@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Install python 3.8 
+1. Install python3 
 2. Install requirements
 - Run ``` pip install -r requirements.txt ``` in the working directory
 3. Install pyaudio
