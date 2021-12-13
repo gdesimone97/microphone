@@ -4,7 +4,7 @@
 
 1. Install python 3.8 
 2. Install requirements
-- Run ``` pip install -r requirements.txt ``` in the work directory
+- Run ``` pip install -r requirements.txt ``` in the working directory
 3. Install pyaudio
 - If you use windows run: ``` pip install pipwin ``` and then ``` pipwin install pyaudio ```
 
